@@ -1,0 +1,26 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.list{
+  list-style: none;
+}
+.list li{
+  display: inline-block;
+  margin-left:75px ;
+}
+h2{
+  text-align: center;
+  font-size: 45px;
+  padding: 20px;
+  color: green;
+}
+img{
+  border-radius: 25px;
+  height: 300px;
+  width: 200px;
+}
+h4{
+  text-align: center;
+  color: green;
+}
